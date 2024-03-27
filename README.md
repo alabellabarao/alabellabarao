@@ -1,16 +1,31 @@
-### Hi there 👋
+<div align="center">
+  <h6> Oi!! Meu nome é Ana Barão, sou analista de teste, tenho sólida experiência em teste de software </h6>
+ </div>
 
-<!--
-**alabellabarao/alabellabarao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/b4ra0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alabellabarao&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alabellabarao&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-Here are some ideas to get you started:
+<div align="justify">
+ <h5> Estou estudando algumas ferramentas/linguagens para automação de testes: </h5>
+  
+  - 🎯 Cypress
+  
+  - 🎯 JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 🎯 HTML
+   
+  - 🎯 CSS
+
+  - 🎯 Python
+
+  - 🎯 API
+
+  - 🎯 Insonmia
+
+  - 🎯 Postman
+
+ - 🎯 Robot Framework
+</div>
