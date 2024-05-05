@@ -21,7 +21,7 @@
 
   - 🎯 Python
 
-  - 🎯 API
+  - 🎯 Testes de API
 
   - 🎯 Insonmia
 
