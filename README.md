@@ -10,7 +10,9 @@
 
 <div align="justify">
  <h5> Estou estudando algumas ferramentas/linguagens para automação de testes: </h5>
-  
+
+
+  [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&
   - 🎯 Cypress
   
   - 🎯 JavaScript
